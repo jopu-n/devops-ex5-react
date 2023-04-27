@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/devops-ex5-react/static/css/main.c4b8654e.css",
-    "main.js": "/devops-ex5-react/static/js/main.5dbb66c6.js",
+    "main.js": "/devops-ex5-react/static/js/main.51b6c767.js",
     "index.html": "/devops-ex5-react/index.html",
     "main.c4b8654e.css.map": "/devops-ex5-react/static/css/main.c4b8654e.css.map",
-    "main.5dbb66c6.js.map": "/devops-ex5-react/static/js/main.5dbb66c6.js.map"
+    "main.51b6c767.js.map": "/devops-ex5-react/static/js/main.51b6c767.js.map"
   },
   "entrypoints": [
     "static/css/main.c4b8654e.css",
-    "static/js/main.5dbb66c6.js"
+    "static/js/main.51b6c767.js"
   ]
 }
